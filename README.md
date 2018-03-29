@@ -1,5 +1,7 @@
 ## How to use
 
+Each command returns the node object and to access the actual stored value you must do <object>.data.
+
 ### Define List Object
 
 variable_name = listlib.list(first item in list)
